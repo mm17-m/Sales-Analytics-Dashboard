@@ -1,5 +1,9 @@
 # 📊 Sales Analytics Dashboards
 
+[![Dashboard Preview](https://public.tableau.com/static/images/fi/finalproject-MaramMohamed/OverviewDashboard/1.png)](https://public.tableau.com/views/finalproject-MaramMohamed/OverviewDashboard)
+
+🔗 [Click here to view the interactive dashboard](https://public.tableau.com/views/finalproject-MaramMohamed/OverviewDashboard)
+
 ## 🔍 Dashboard Highlights
 
 ### 1. Sales Overview
@@ -24,6 +28,3 @@
 
 This project aims to support **data-driven decision-making** for sales teams and business analysts.  
 The interactive dashboards were built using **Tableau**, focusing on clear visuals and actionable insights.
-
----
-
